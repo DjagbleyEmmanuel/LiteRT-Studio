@@ -29,3 +29,8 @@ LiteRT Studio uses the LiteRT-LM runtime to execute models efficiently on CPUs. 
 
 ---
 *Note: This repository currently hosts the binary releases. Source code integration is planned for a future update.*
+
+
+
+
+- **PS: Check new releases for for fixes and feature updates**
