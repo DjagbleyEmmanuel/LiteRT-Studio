@@ -33,4 +33,4 @@ LiteRT Studio uses the LiteRT-LM runtime to execute models efficiently on CPUs. 
 
 
 
-- **PS: Check new releases for for fixes and feature updates**
+- **PS: Check new releases for fixes and feature updates**
